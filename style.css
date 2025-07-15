@@ -21,3 +21,7 @@
     background-color: rgb(255, 208, 0);
     color: white;
 }
+.box h3 {
+    font-size: 18px;
+    font-weight: 500;
+}
